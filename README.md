@@ -217,5 +217,5 @@ This project is based on the AGPL-3.0 license, please refer to the LICENSE file 
 
 If you have any questions or suggestions, please contact us through the following ways:
 
-- Project address: https://github.com/yourusername/evidence-yolo
-- Email: your.email@example.com
+- Project address: https://github.com/xiaoxiaomuyu321/Evi-YOLO
+- Email: qingshunhao419@163.com
