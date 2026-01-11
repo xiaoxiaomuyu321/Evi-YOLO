@@ -88,7 +88,7 @@ EDRLoss consists of three parts:
    RegLoss = \lambda |y - \gamma| (2v + \alpha)
    ```
 
-3. **Uncertainty Constraint**: Encourages the model to output reasonable uncertainty estimates
+3. **Zero Evidence Region Compensation**: Compensates for the zero evidence region problem in the previous two loss terms
    
    ```math
    UCLoss = (y - \gamma)^2 \frac{v(\alpha - 1)}{\beta(1 + v)}
